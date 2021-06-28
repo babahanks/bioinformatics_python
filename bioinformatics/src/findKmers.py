@@ -1,7 +1,7 @@
 import unittest
 import operator
-from bioinformatics.hamming_distance import is_distance_not_greater_than
-from bioinformatics.hamming_distance import distanceNeighborhood
+from bioinformatics.src.hamming_distance import is_distance_not_greater_than
+from bioinformatics.src.hamming_distance import distanceNeighborhood
 
 
 def findClumps(
